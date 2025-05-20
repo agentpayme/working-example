@@ -12,7 +12,7 @@ This working example pairs with the [Working Example Walkthrough](https://docs.a
 ## Prerequisites
 
 * Python 3.10 or higher
-* An AgentPay account and Service Token (see [Registering Your MCP Server on AgentPay](https://docs.agentpay.me/mcp-server-developers/platform/server-registration))
+* An AgentPay account and Service Token (see [Registering Your MCP Server](https://docs.agentpay.me/mcp-server-developers/platform/server-registration) on AgentPay)
 * Basic understanding of MCP (from the [official tutorial](https://modelcontextprotocol.io/quickstart/server))
 
 ## Setup
