@@ -3,14 +3,16 @@
 This is a complete working example of a remote MCP server that provides weather data and integrates with AgentPay for usage-based billing. It demonstrates how to:
 
 1. Create a remote MCP server using Starlette
-2. Integrate with AgentPay for API key validation and usage-based billing
-3. Implement MCP tools with proper error handling
-4. Use middleware for API key management
+2. Use middleware for API key management
+3. Integrate with AgentPay for API key validation and usage-based billing
+4. Implement MCP tools with proper error handling
+
+This working example pairs with the [Working Example Walkthrough](https://docs.agentpay.me/mcp-server-developers/examples/working-example-python) from the AgentPay documentation.
 
 ## Prerequisites
 
 * Python 3.10 or higher
-* An AgentPay account and Service Token (see [AgentPay documentation](https://docs.agentpay.me))
+* An AgentPay account and Service Token (see [Registering Your MCP Server]([https://docs.agentpay.me](https://docs.agentpay.me/mcp-server-developers/platform/server-registration)))
 * Basic understanding of MCP (from the [official tutorial](https://modelcontextprotocol.io/quickstart/server))
 
 ## Setup
