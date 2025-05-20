@@ -1,4 +1,4 @@
-# Weather MCP Server with AgentPay Integration
+# Remote MCP Server with AgentPay Integration
 
 This is a complete working example of a remote MCP server that provides weather data and integrates with AgentPay for usage-based billing. It demonstrates how to:
 
