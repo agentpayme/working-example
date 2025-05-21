@@ -12,8 +12,11 @@ This working example pairs with the [Working Example Walkthrough](https://docs.a
 ## Prerequisites
 
 * Python 3.10 or higher
-* An AgentPay account and Service Token (see [Registering Your MCP Server](https://docs.agentpay.me/mcp-server-developers/platform/server-registration) on AgentPay)
-* Basic understanding of MCP (from the [official MCP documentation](https://modelcontextprotocol.io/quickstart/server))
+* Basic understanding of MCP (see the [official MCP documentation](https://modelcontextprotocol.io/quickstart/server))
+* An [AgentPay](https://agentpay.me) account and Service Token (see [Registering Your MCP Server on AgentPay](https://docs.agentpay.me/mcp-server-developers/platform/server-registration))
+
+> [!NOTE]
+> AgentPay is currently in **Early Access**. To get early access to AgentPay, please [sign up for the Waitlist](https://agentpay.me).
 
 ## Setup
 
@@ -32,6 +35,9 @@ This working example pairs with the [Working Example Walkthrough](https://docs.a
    cp .env.example .env
    # Edit .env and add your Service Token
    ```
+
+> [!NOTE]
+> The `agentpay-sdk` package currently on PyPI is a **placeholder** during Early Access. To get the actual SDK now, [join the Waitlist](https://agentpay.me).
 
 ## Running the Server
 
